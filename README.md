@@ -1,48 +1,36 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
 
+> A consumer finance company specializes in lending various types of loans to urban 
+customers. When the company receives a loan application, the company has to 
+make a decision for loan approval based on the applicant’s profile
+> The aim is to identify patterns which indicate if a person is likely to default, which 
+may be used for taking actions such as denying the loan, reducing the amount of 
+loan, lending (to risky applicants) at a higher interest rate, etc
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- There is not much difference b/w Verified and Non verified appication status who defaulted.
+- Mostly with 10+ years of employment seems to have defaulted the most.
+- Median of interest rate for people who defaulted is somewhere around 13%, while the full paid persons are around 11 and 12.
+- In 2011, most of the loan applications were funded.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- matplotlib - 3.8.4
+- seaborn - 0.13.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@csstrike] - feel free to contact me!
 
 
 <!-- Optional -->
